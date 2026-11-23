@@ -1,0 +1,47 @@
+[
+  {
+    "id": "REF-001",
+    "title": "Iowa Army Ammunition Plant — emergency permit and supporting documents",
+    "agency": "U.S. Environmental Protection Agency",
+    "state": "Iowa",
+    "location": "Iowa Army Ammunition Plant (Middletown)",
+    "category": "Emergency hazardous-waste treatment",
+    "material": "Lead azide",
+    "record_date": "2026-11-13",
+    "origin": "Official public source",
+    "summary": "EPA public notice describing an emergency hazardous-waste storage and treatment permit for degraded lead azide. The page may be updated as legal and operational circumstances change; consult the source for current status.",
+    "source_url": "https://www.epa.gov/ia/iowa-army-ammunition-plant-middletown-iowa-3",
+    "file_url": "",
+    "notes": "Primary source; not a claim about conditions at other facilities."
+  },
+  {
+    "id": "REF-002",
+    "title": "Emergency hazardous-waste permit for storage and treatment of lead azide (redacted PDF)",
+    "agency": "U.S. Environmental Protection Agency",
+    "state": "Iowa",
+    "location": "Iowa Army Ammunition Plant (Middletown)",
+    "category": "Permit document",
+    "material": "Lead azide",
+    "record_date": "2026-11-13",
+    "origin": "Official public source",
+    "summary": "Redacted EPA emergency permit for lead-azide storage and treatment; includes the agency's permit conditions and summary of alternatives discussed in supporting materials.",
+    "source_url": "https://www.epa.gov/system/files/documents/2026-11/iaaap-emergency-permit-for-treatment-and-storage-final_redacted.pdf",
+    "file_url": "",
+    "notes": "EPA-issued source; permits and legal status may change."
+  },
+  {
+    "id": "REF-003",
+    "title": "Army article on alternative primary explosives and earlier Iowa stockpile concerns",
+    "agency": "U.S. Army",
+    "state": "Iowa",
+    "location": "Iowa Army Ammunition Plant (Middletown)",
+    "category": "Historical research and inventory context",
+    "material": "Lead azide",
+    "record_date": "2014-03-21",
+    "origin": "Official public source",
+    "summary": "Army reporting states a research initiative began in 2004 in response to concerns about an approximately 40-year-old deteriorating lead-azide stockpile at this facility. The article does not establish that the specific inventory was identical to material discussed in 2026.",
+    "source_url": "https://www.army.mil/article/122127/Picatinny_aims_for_green_with_new_type_of_primary_explosive",
+    "file_url": "",
+    "notes": "Historical context only; no causal conclusion about subsequent decisions."
+  }
+]
